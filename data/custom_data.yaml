@@ -1,0 +1,8 @@
+train: ./data/train
+val: ./data/val 
+
+# number of classes
+nc: 11
+
+# class names
+names: [ '1star', '5star', 'Book1', 'Book2', 'Book3', 'Phone1', 'Phone2', 'Phone3', 'Speaker', 'Watch1', 'Watch2' ]
